@@ -7,6 +7,8 @@ int main(){
   int rows = 5;
   int counter = 0;
 
+  // use if j == 0;
+
   cout << "                          columns    " << endl;
 
   for(int i = 0; i < rows; i++){
